@@ -1,0 +1,18 @@
+Beginn: 09.30 Uhr
+Ende: 16.30 Uhr (7 Std. / 14 Std. / 35 Std.)
+Pause: 12.00 - 12.30 Uhr
+
+Geplante Tätigkeiten:
+~ eventuell bei jemanden mal mitschauen, was er so macht
+
+Tatsächliche Tätigkeiten:
+~ Bei Chris mitgeschaut beim überarbeiten der App
+~ Markdown/Visual Studio Code kennengelernt
+~ Git über die Konsole aufgefrischt
+~ Viel mit Git und GitHub gemacht :D
+~ Von Chris den Pull-Request gezeigt bekommen
+
+Neu erstellte Dokumente:
++ Tagebuch für den 6.8.2019
++ Üben und Testen für Visual Studio Code
++ README fürs Üben mit Git
