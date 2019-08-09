@@ -19,6 +19,6 @@
   * Könnte jedoch für "temporäre" User zu viel Aufwand sein.
 * Das Erstellen von neuen Modellen könnte für SketchUp-Anfänger etwas schwer sein.
 
-
 *Negatives:*
 - Da ich auf meinem Handy, um einen Screenshot zu machen, mit drei Fingern nach unten streichen muss, (Drei-Finger-Screenshot) ist es für mich immer eine kleine Herausforderung das Modell nach oben und unten zu verschieben.
+- Das aktivieren der Selektionsansicht ist manchmal etwas schwierig/umständlich.
